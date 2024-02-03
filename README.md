@@ -10,5 +10,6 @@ For the right Java version, consult `.java-version` which is meant to be picked 
 
 | Name          | Description                  |
 |---------------|------------------------------|
+| bash-app      | a 'grep -r' onliner          |
 | cpp-app-slurp | reads every file into memory |
 | py-app        | simplest loops               |
