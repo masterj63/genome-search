@@ -11,3 +11,4 @@ For the right Java version, consult `.java-version` which is meant to be picked 
 | Name          | Description                  |
 |---------------|------------------------------|
 | cpp-app-slurp | reads every file into memory |
+| py-app        | simplest loops               |
