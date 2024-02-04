@@ -13,5 +13,6 @@ For the right Java version, consult `.java-version` which is meant to be picked 
 | bash-app      | a 'grep -r' onliner          |
 | clj-app       | reads every file into memory |
 | cpp-app-slurp | reads every file into memory |
+| kt-app-cr     | slurp + coroutines           |
 | kt-app-slurp  | reads every file into memory |
 | py-app        | simplest loops               |

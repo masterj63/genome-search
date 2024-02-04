@@ -3,6 +3,7 @@ include(
     "bash-app",
     "clj-app",
     "cpp-app-slurp",
+    "kt-app-cr",
     "kt-app-slurp",
     "py-app",
 )
