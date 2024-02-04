@@ -15,6 +15,7 @@ For the right Java version, consult `.java-version` which is meant to be picked 
 | cpp-app-mm    | memory-mapped                |
 | cpp-app-slurp | reads every file into memory |
 | kt-app-cr     | slurp + coroutines           |
+| kt-app-mm     | memory-mapped                |
 | kt-app-mt     | slurp + classic threads      |
 | kt-app-slurp  | reads every file into memory |
 | py-app        | simplest loops               |

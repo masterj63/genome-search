@@ -5,6 +5,7 @@ include(
     "cpp-app-mm",
     "cpp-app-slurp",
     "kt-app-cr",
+    "kt-app-mm",
     "kt-app-mt",
     "kt-app-slurp",
     "py-app",
