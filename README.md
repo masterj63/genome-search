@@ -8,5 +8,6 @@ For the right Java version, consult `.java-version` which is meant to be picked 
 
 ### Implementations
 
-| Name | Description |
-|------|-------------|
+| Name          | Description                  |
+|---------------|------------------------------|
+| cpp-app-slurp | reads every file into memory |
