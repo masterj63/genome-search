@@ -13,6 +13,7 @@ For the right Java version, consult `.java-version` which is meant to be picked 
 | bash-app      | a 'grep -r' onliner          |
 | clj-app       | reads every file into memory |
 | cpp-app-mm    | memory-mapped                |
+| cpp-app-mm-mt | concurrent memory-mapped     |
 | cpp-app-slurp | reads every file into memory |
 | kt-app-cr     | slurp + coroutines           |
 | kt-app-mm     | memory-mapped                |
